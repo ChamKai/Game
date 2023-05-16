@@ -1,1 +1,1 @@
-# Game
+# I'm not sure what to put here since I've never made a README file description before. So yeah this game is extremely broken but I don't care anymore at this point. This is just a project for a coding class that I have to do.
